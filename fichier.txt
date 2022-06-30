@@ -1,0 +1,40 @@
+Pour 10 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 20 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 30 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 40 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 50 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 60 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 70 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 80 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 90 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
+Pour 100 iterations on a :
+la meilleur solution local est : 30
+qui correspond a f(30) = 100
+
